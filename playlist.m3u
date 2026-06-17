@@ -8,3 +8,6 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.bm4otssTJLyS948YrDqShgHaCO?w=312&h=105&c=7&r=0&o=5&pid=1.7",Trans7
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png",SpoTV
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd

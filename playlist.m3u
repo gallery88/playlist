@@ -7,10 +7,10 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.wB-5ny1ULWbg-Zo6pqOCYwHaH4?w=127&h=180&c=7&r=0&o=5&pid=1.7",Trans TV
-https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.bm4otssTJLyS948YrDqShgHaCO?w=312&h=105&c=7&r=0&o=5&pid=1.7",Trans7
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="Sports",SpoTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey

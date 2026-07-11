@@ -39,3 +39,17 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="BantenTV.id@SD" tvg-logo="https://i.imgur.com/tbtF40p.png" group-title="Undefined",Banten TV (720p) [Not 24/7]
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png" group-title="Sports",SPOTV 🔵
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+#https://terabit.web.id/media.mpd?id=119&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/657/657-LOGO-m.png" group-title="Sports",SPOTV 2 🔵
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+#https://terabit.web.id/media.mpd?id=120&type=dash
